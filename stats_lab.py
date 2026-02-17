@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 # -----------------------------------
 # Question 1 – Generate & Plot Histograms
 # -----------------------------------
